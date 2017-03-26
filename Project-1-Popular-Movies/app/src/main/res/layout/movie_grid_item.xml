@@ -1,0 +1,6 @@
+<ImageView
+    android:id="@+id/iv_movie_poster"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scaleType="fitXY"
+    xmlns:android="http://schemas.android.com/apk/res/android"/>

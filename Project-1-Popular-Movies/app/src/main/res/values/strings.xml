@@ -1,4 +1,24 @@
 <resources>
     <string name="app_name">Popular Movies</string>
-    <string name="hello_world">Hello, World!!!"</string>
+    <string name="title_popular_movies">Popular Movies</string>
+    <string name="title_top_rated_movies">Top Rated Movies</string>
+    <string name="title_movie_details">Movie Details</string>
+    <string name="error_could_not_make_request">Unable to make request, please retry.</string>
+    <string name="error_could_not_download">Could not download movies, please retry.</string>
+    <string name="error_could_not_parse_response">Could not understand the response from the server, please retry.</string>
+    <string name="error_no_movies_to_display">No movies to display.</string>
+    <string name="menu_item_sort">Sort</string>
+    <string name="sort_type">Sort by</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_movie_passed_via_intent">No movie provided for display.</string>
+    <string name="overview">Overview</string>
+    <string name="movie_release_date">Released: </string>
+    <string name="movie_user_score">User Score: </string>
+
+    <string-array name="sort_options">
+        <item>Most Popular</item>
+        <item>Top Rated</item>
+    </string-array>
+
 </resources>
